@@ -1,4 +1,4 @@
-u = 40
+u = 10000
 if u > 20:
     print ('u 20 den buyuktur')
     if u == 20 :
