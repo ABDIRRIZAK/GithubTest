@@ -1,0 +1,1 @@
+ilk github ile ilgili dosyam olacaktir.
